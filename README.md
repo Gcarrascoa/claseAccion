@@ -1,7 +1,9 @@
 # claseAccion
 #Crear una clase en Python (Python 3.6 en adelante) que permita representar una acción de la bolsa.
 autor: Giovanni Carrasco
+
 Librerias utilizadas : datetime
+
 Version Python : 3 
 
 Nombre de la clase: Accion
